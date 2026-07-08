@@ -369,8 +369,8 @@ Contributions are welcome! To contribute:
 
 ## 👥 Authors - نویسندگان
 
-- **Mohammad Mehriyari** - [@MohammadMehriyari](https://github.com/MohammadMehriyari) - Lead Developer
-- **Mobin Alizadeh** - [@Mobin Alizadeh](https://github.com/mobin-alz) - Co-Developer
+- **Mohammad Mehriyari** - [@MohammadMehriyari](https://github.com/MohammadMehriyari) 
+- **Mobin Alizadeh** - [@Mobin Alizadeh](https://github.com/mobin-alz) 
 
 ---
 
@@ -398,6 +398,5 @@ If you have any questions, issues, or suggestions, please reach out:
 
 ---
 
-**Made with ❤️ by Mohammad Mehriyari**
+**Made with ❤️ by Mohammad Mehriyari & Mobin Alizadeh **
 
-**ساخته شده با ❤️ توسط محمد مهریاری**
